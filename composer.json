@@ -1,0 +1,16 @@
+{
+    "name": "kubeecms/forms-polls",
+    "description": "Allows you to quickly and easily deploy Polls on your web site using the power of Forms.",
+    "keywords": ["kubee", "kubeecms", "forms", "polls", "forms-polls"],
+    "homepage": "https://github.com/kubeecms/forms-polls/",
+    "authors": [
+      {
+        "name": "Kubee CMS",
+        "homepage": "https://github.com/KubeeCMS/"
+      }
+    ],
+    "type": "wordpress-plugin",
+    "require": {
+      "php": ">=7.2"
+    }
+  }
